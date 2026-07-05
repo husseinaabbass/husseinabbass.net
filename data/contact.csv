@@ -1,0 +1,12 @@
+kind,group,title,kicker,description,completeUrl,type,summary,url,linkLabel,sourcePage,sourceSection,sourceOrder,sourceKind
+metadata,,Contact,Profiles and Links,"Profile, bibliometrics, and contact pathways preserved from the original Home page.",complete.html#contact,,,,,Home,Bibliometrics,29,heading
+group,Bibliometrics,,,,,,Citation and profile links.,,,Home,Bibliometrics,29,heading
+item,Bibliometrics,Google Citations,,,,Profile link,,https://scholar.google.com/citations?user=bzmH088AAAAJ&hl=en,Open profile,Home,Bibliometrics,30,link
+item,Bibliometrics,Scopus Citations,,,,Profile link,,http://www.scopus.com/authid/detail.uri?authorId=6701824380,Open profile,Home,Bibliometrics,31,link
+item,Bibliometrics,Web of Science Citations,,,,Profile link,,http://www.researcherid.com/rid/C-9563-2009,Open profile,Home,Bibliometrics,32,link
+item,Bibliometrics,ORCID ID,,,,Profile link,,http://orcid.org/0000-0002-8837-0748,Open profile,Home,Bibliometrics,33,link
+item,Bibliometrics,UNSW Research Webpage,,,,Profile link,,https://research.unsw.edu.au/people/professor-hussein-abbass,Open profile,Home,Bibliometrics,34,link
+item,Bibliometrics,Amazon Author,,,,Profile link,,http://www.amazon.com/Hussein-A.-Abbass/e/B005EYDFPO,Open profile,Home,Bibliometrics,35,link
+featured,,Google Citations,,,,Profile link,,https://scholar.google.com/citations?user=bzmH088AAAAJ&hl=en,Open source,Home,Bibliometrics,30,link
+featured,,Scopus Citations,,,,Profile link,,http://www.scopus.com/authid/detail.uri?authorId=6701824380,Open source,Home,Bibliometrics,31,link
+featured,,Web of Science Citations,,,,Profile link,,http://www.researcherid.com/rid/C-9563-2009,Open source,Home,Bibliometrics,32,link
